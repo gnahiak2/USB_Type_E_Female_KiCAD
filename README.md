@@ -1,0 +1,1 @@
+# USB_Type_E_Female_KiCAD
